@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/bnabi/Desktop/AI/blah/a3c/tmp/checkpoints/model"
+all_model_checkpoint_paths: "/home/bnabi/Desktop/AI/blah/a3c/tmp/checkpoints/model"
